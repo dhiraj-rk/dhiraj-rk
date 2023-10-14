@@ -1,6 +1,6 @@
 - Hello!!👋 This is Dhiraj Rajkarnikar.
 - 👀 I’m interested in data and coding.  
-- 🌱 I’m currently learning Data Scienc.
+- 🌱 I’m currently learning to code and do some Data Science at the same time.
 - 📫 Reach me via drajkarnikar@mun.ca
 
 <!---
